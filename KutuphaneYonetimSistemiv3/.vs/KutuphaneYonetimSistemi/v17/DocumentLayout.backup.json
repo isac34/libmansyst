@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|solutionrelative:kutuphane.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\mybooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\mybooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.dal\\bookrequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|solutionrelative:kutuphane.dal\\bookrequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.dal\\overduereportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|solutionrelative:kutuphane.dal\\overduereportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.bbl\\overduereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|solutionrelative:kutuphane.bbl\\overduereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72998FF-75AE-48B9-9723-D3B2A6BF1AEE}|Kutuphane.DAL\\Kutuphane.DAL.csproj|solutionrelative:kutuphane.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookrequestadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.bbl\\bookrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|solutionrelative:kutuphane.bbl\\bookrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC7C86A-94B2-4466-867A-0CA5EE902094}|Kutuphane.Entities\\Kutuphane.Entities.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.entities\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC7C86A-94B2-4466-867A-0CA5EE902094}|Kutuphane.Entities\\Kutuphane.Entities.csproj|solutionrelative:kutuphane.entities\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\mybooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\mybooksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.bbl\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|solutionrelative:kutuphane.bbl\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.bbl\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|solutionrelative:kutuphane.bbl\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.bbl\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B0EB51-86C9-43BF-99CD-402606C2FE42}|Kutuphane.BBL\\Kutuphane.BBL.csproj|solutionrelative:kutuphane.bbl\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC7C86A-94B2-4466-867A-0CA5EE902094}|Kutuphane.Entities\\Kutuphane.Entities.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphane.entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC7C86A-94B2-4466-867A-0CA5EE902094}|Kutuphane.Entities\\Kutuphane.Entities.csproj|solutionrelative:kutuphane.entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\memberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\memberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp\\kutuphaneyonetimsistemi2\\kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MainForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MainForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:38:12.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyBooksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MyBooksForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MyBooksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:25:43.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MainForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MainForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MainForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAASwGwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:38:28.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRequestDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\BookRequestDAL.cs",
+              "RelativeDocumentMoniker": "Kutuphane.DAL\\BookRequestDAL.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\BookRequestDAL.cs",
+              "RelativeToolTip": "Kutuphane.DAL\\BookRequestDAL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvysAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:48:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRequestAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:01:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\MemberDAL.cs",
+              "RelativeDocumentMoniker": "Kutuphane.DAL\\MemberDAL.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\MemberDAL.cs",
+              "RelativeToolTip": "Kutuphane.DAL\\MemberDAL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:32:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MemberForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:40:24.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:10:33.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\LoginForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\LoginForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:33:17.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OverdueReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:27:30.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:49:54.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRequestAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:03:24.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:00:34.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OverDueReportDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\OverDueReportDAL.cs",
+              "RelativeDocumentMoniker": "Kutuphane.DAL\\OverDueReportDAL.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\OverDueReportDAL.cs",
+              "RelativeToolTip": "Kutuphane.DAL\\OverDueReportDAL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:09:53.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OverdueReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:28:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BorrowDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\BorrowDAL.cs",
+              "RelativeDocumentMoniker": "Kutuphane.DAL\\BorrowDAL.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.DAL\\BorrowDAL.cs",
+              "RelativeToolTip": "Kutuphane.DAL\\BorrowDAL.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:25:02.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OverDueReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\OverDueReportService.cs",
+              "RelativeDocumentMoniker": "Kutuphane.BBL\\OverDueReportService.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\OverDueReportService.cs",
+              "RelativeToolTip": "Kutuphane.BBL\\OverDueReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:10:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookRequestAdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestAdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestAdminForm.Designer.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestAdminForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:03:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BookRequestService.cs",
+              "RelativeDocumentMoniker": "Kutuphane.BBL\\BookRequestService.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BookRequestService.cs",
+              "RelativeToolTip": "Kutuphane.BBL\\BookRequestService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:49:24.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:50:00.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.Entities\\BookRequest.cs",
+              "RelativeDocumentMoniker": "Kutuphane.Entities\\BookRequest.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.Entities\\BookRequest.cs",
+              "RelativeToolTip": "Kutuphane.Entities\\BookRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:48:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyBooksForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MyBooksForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:25:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BorrowForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:58:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MemberForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MemberForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:04:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\BookForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:37:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BorrowService.cs",
+              "RelativeDocumentMoniker": "Kutuphane.BBL\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BorrowService.cs",
+              "RelativeToolTip": "Kutuphane.BBL\\BorrowService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:25:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\MemberService.cs",
+              "RelativeDocumentMoniker": "Kutuphane.BBL\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\MemberService.cs",
+              "RelativeToolTip": "Kutuphane.BBL\\MemberService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:32:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BookService.cs",
+              "RelativeDocumentMoniker": "Kutuphane.BBL\\BookService.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.BBL\\BookService.cs",
+              "RelativeToolTip": "Kutuphane.BBL\\BookService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:17:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Kutuphane.Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\Kutuphane.Entities\\Member.cs",
+              "RelativeToolTip": "Kutuphane.Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:32:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\Program.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:25:49.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MemberForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.Designer.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MemberForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\MemberForm.Designer.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MemberForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:02:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\LoginForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP\\KutuphaneYonetimSistemi2\\KutuphaneYonetimSistemi\\LoginForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\LoginForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:36:02.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
