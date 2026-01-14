@@ -1,2 +1,99 @@
-# libmansyst
-Library Management System
+
+# 📚 Kütüphane Yönetim Sistemi
+
+Kütüphane Yönetim Sistemi, kütüphane süreçlerini dijital ortamda yönetmek amacıyla geliştirilmiş bir masaüstü uygulamasıdır.
+Bu proje; kitap yönetimi, üye işlemleri, ödünç alma–iade süreçleri ve raporlama işlemlerini tek bir sistem üzerinden güvenli ve düzenli şekilde yürütmeyi hedefler.
+
+Uygulama, katmanlı mimari prensiplerine uygun olarak geliştirilmiş olup sürdürülebilir ve genişletilebilir bir yapı sunar.
+
+## 🚀 Temel Özellikler
+### 🔐 Kullanıcı Girişi ve Yetkilendirme
+
+Güvenli giriş (login) sistemi
+
+Rol bazlı yetkilendirme (Yönetici / Personel / Üye)
+
+Kullanıcı rolüne göre menü ve ekran kısıtlamaları
+
+### 📖 Kitap Yönetimi
+
+Kitap ekleme, silme ve güncelleme
+
+Kitap stok takibi
+
+Mevcut kitapların listelenmesi
+
+### 👤 Üye Yönetimi
+
+Üye ekleme ve düzenleme işlemleri
+
+Kullanıcı adı ve şifre ile kayıt sistemi
+
+Üyelerin sistem üzerindeki işlemlerinin takibi
+
+### 🔁 Ödünç Alma ve İade
+
+Kitap ödünç verme ve iade alma
+
+Stok kontrolü (stok 0 ise ödünç engelleme)
+
+Gecikme gün sayısının otomatik hesaplanması
+
+### 📨 Kitap Talep Sistemi
+ 
+Üyelerin sistemde olmayan kitaplar için talep oluşturabilmesi
+
+Taleplerin yönetici tarafından görüntülenmesi
+
+### 📊 Raporlama (Yönetici)
+
+Geciken kitapların listelenmesi
+
+En çok ödünç alınan kitaplar
+
+En aktif üyeler
+
+## 🧰 Kullanılan Teknolojiler
+
+C#
+
+Windows Forms (.NET 8)
+
+MySQL
+
+Katmanlı Mimari (UI / BLL / DAL / Entities)
+
+## 🏗️ Proje Mimarisi
+
+Proje, katmanlı mimari yaklaşımıyla geliştirilmiştir:
+
+### UI (User Interface)
+Kullanıcı etkileşimlerinin gerçekleştiği Windows Forms arayüzleri
+
+### BLL (Business Logic Layer)
+İş kuralları, validasyonlar ve yetkilendirme kontrolleri
+
+### DAL (Data Access Layer)
+Veritabanı bağlantıları ve SQL sorguları
+
+### Entities
+Veritabanı tablolarının C# nesne karşılıkları
+
+Bu yapı sayesinde kod okunabilirliği ve bakım kolaylığı sağlanmıştır.
+
+## 🎯 Projenin Amacı
+
+Kütüphane işlemlerini dijitalleştirerek manuel süreçleri azaltmak
+
+Kitap ve üye takibini düzenli ve güvenli hale getirmek
+
+Rol bazlı yetkilendirme ile kontrollü bir sistem sunmak
+
+Raporlama ile yöneticilere karar desteği sağlamak
+
+## 📽️ Tanıtım Videosu
+
+Projenin tanıtım videosuna [bu linke](https://youtu.be/gJ2TX8XiLfQ) tıklayarak ulaşabilirsiniz
+
+⭐ Not
+Bu proje, Nesne Yönelimli Programlama ve veritabanı tabanlı masaüstü uygulama geliştirme konularında pratik kazanmak amacıyla geliştirilmiştir.
