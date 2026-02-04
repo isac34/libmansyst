@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANEN2dBqEEk=",
+  "dgSpecHash": "JJz2u0MeGCw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arda\\source\\repos\\libmansyst\\KutuphaneYonetimSistemiv3\\Kutuphane.DAL\\Kutuphane.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Arda\\Desktop\\NYP BÜT\\libmansyst\\KutuphaneYonetimSistemiv3\\Kutuphane.DAL\\Kutuphane.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arda\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\Arda\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

@@ -28,8 +28,12 @@
             label4 = new Label();
             button1 = new Button();
             panel1 = new Panel();
+            txtSearch = new TextBox();
+            pictureBox2 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // cmbMember
@@ -37,7 +41,7 @@
             cmbMember.BackColor = Color.White;
             cmbMember.ForeColor = Color.FromArgb(13, 13, 13);
             cmbMember.FormattingEnabled = true;
-            cmbMember.Location = new Point(75, 260);
+            cmbMember.Location = new Point(75, 213);
             cmbMember.Name = "cmbMember";
             cmbMember.Size = new Size(133, 23);
             cmbMember.TabIndex = 11;
@@ -47,7 +51,7 @@
             cmbBook.BackColor = Color.White;
             cmbBook.ForeColor = Color.FromArgb(13, 13, 13);
             cmbBook.FormattingEnabled = true;
-            cmbBook.Location = new Point(221, 260);
+            cmbBook.Location = new Point(221, 213);
             cmbBook.Name = "cmbBook";
             cmbBook.Size = new Size(133, 23);
             cmbBook.TabIndex = 10;
@@ -56,7 +60,7 @@
             // 
             dtDueDate.CalendarForeColor = Color.FromArgb(13, 13, 13);
             dtDueDate.CalendarMonthBackground = Color.FromArgb(217, 195, 176);
-            dtDueDate.Location = new Point(360, 260);
+            dtDueDate.Location = new Point(360, 210);
             dtDueDate.Name = "dtDueDate";
             dtDueDate.Size = new Size(219, 23);
             dtDueDate.TabIndex = 9;
@@ -69,7 +73,7 @@
             btnBorrow.FlatStyle = FlatStyle.Flat;
             btnBorrow.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold);
             btnBorrow.ForeColor = Color.Black;
-            btnBorrow.Location = new Point(186, 296);
+            btnBorrow.Location = new Point(186, 242);
             btnBorrow.Name = "btnBorrow";
             btnBorrow.Size = new Size(133, 32);
             btnBorrow.TabIndex = 8;
@@ -84,7 +88,7 @@
             btnReturn.FlatStyle = FlatStyle.Flat;
             btnReturn.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold);
             btnReturn.ForeColor = Color.Black;
-            btnReturn.Location = new Point(325, 296);
+            btnReturn.Location = new Point(325, 242);
             btnReturn.Name = "btnReturn";
             btnReturn.Size = new Size(108, 32);
             btnReturn.TabIndex = 7;
@@ -97,7 +101,7 @@
             dataGridView1.BackgroundColor = Color.FromArgb(217, 195, 176);
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.GridColor = Color.FromArgb(110, 113, 115);
-            dataGridView1.Location = new Point(10, 95);
+            dataGridView1.Location = new Point(10, 52);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.Size = new Size(678, 137);
             dataGridView1.TabIndex = 6;
@@ -107,7 +111,7 @@
             label1.AutoSize = true;
             label1.BackColor = Color.FromArgb(110, 113, 115);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(75, 243);
+            label1.Location = new Point(75, 192);
             label1.Name = "label1";
             label1.Size = new Size(52, 15);
             label1.TabIndex = 3;
@@ -118,7 +122,7 @@
             label2.AutoSize = true;
             label2.BackColor = Color.FromArgb(110, 113, 115);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(360, 243);
+            label2.Location = new Point(360, 192);
             label2.Name = "label2";
             label2.Size = new Size(73, 15);
             label2.TabIndex = 4;
@@ -129,7 +133,7 @@
             label3.AutoSize = true;
             label3.BackColor = Color.FromArgb(110, 113, 115);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(221, 243);
+            label3.Location = new Point(221, 192);
             label3.Name = "label3";
             label3.Size = new Size(59, 15);
             label3.TabIndex = 5;
@@ -174,10 +178,40 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(110, 113, 115);
+            panel1.Controls.Add(pictureBox2);
+            panel1.Controls.Add(txtSearch);
+            panel1.Controls.Add(btnBorrow);
+            panel1.Controls.Add(btnReturn);
+            panel1.Controls.Add(cmbMember);
+            panel1.Controls.Add(dataGridView1);
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(cmbBook);
+            panel1.Controls.Add(label3);
+            panel1.Controls.Add(label2);
+            panel1.Controls.Add(dtDueDate);
             panel1.Location = new Point(0, 70);
             panel1.Name = "panel1";
             panel1.Size = new Size(701, 332);
             panel1.TabIndex = 12;
+            // 
+            // txtSearch
+            // 
+            txtSearch.Location = new Point(10, 23);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(678, 23);
+            txtSearch.TabIndex = 13;
+            txtSearch.TextChanged += txtSearch_TextChanged;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = Color.FromArgb(217, 195, 176);
+            pictureBox2.BackgroundImage = (Image)resources.GetObject("pictureBox2.BackgroundImage");
+            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox2.Location = new Point(654, 23);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(34, 23);
+            pictureBox2.TabIndex = 14;
+            pictureBox2.TabStop = false;
             // 
             // BorrowForm
             // 
@@ -188,15 +222,6 @@
             Controls.Add(button1);
             Controls.Add(label4);
             Controls.Add(pictureBox1);
-            Controls.Add(label1);
-            Controls.Add(label2);
-            Controls.Add(label3);
-            Controls.Add(dataGridView1);
-            Controls.Add(btnReturn);
-            Controls.Add(btnBorrow);
-            Controls.Add(dtDueDate);
-            Controls.Add(cmbBook);
-            Controls.Add(cmbMember);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
             MaximumSize = new Size(700, 400);
@@ -206,6 +231,9 @@
             Load += BorrowForm_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -225,5 +253,7 @@
         private Label label4;
         private Button button1;
         private Panel panel1;
+        private TextBox txtSearch;
+        private PictureBox pictureBox2;
     }
 }
