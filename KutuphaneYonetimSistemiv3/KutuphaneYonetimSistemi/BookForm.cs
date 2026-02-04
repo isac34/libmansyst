@@ -14,10 +14,10 @@ namespace KutuphaneYonetimSistemi
 {
     public partial class BookForm : Form
     {
-        Member _user;
-        
-
-        
+        private Member _user;
+        private DataTable _booksTable;
+        private List<Book> _bookList;
+        private BindingSource _bs = new BindingSource();
         public BookForm(Member user)
         {
             InitializeComponent();
@@ -27,7 +27,22 @@ namespace KutuphaneYonetimSistemi
         private void BookForm_Load(object sender, EventArgs e)
         {
             BookService service = new BookService();
-            dataGridView1.DataSource = service.GetBooks();
+            _bookList = service.GetBooks();
+
+            _bs.DataSource = _bookList;
+            dataGridView1.DataSource = _bs;
+        }
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            string text = txtSearch.Text.ToLower();
+
+            var filtered = _bookList
+                .Where(b =>
+                    b.BookName.ToLower().Contains(text) ||
+                    b.Author.ToLower().Contains(text))
+                .ToList();
+
+            _bs.DataSource = filtered;
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -52,6 +67,8 @@ namespace KutuphaneYonetimSistemi
 
                 MessageBox.Show("Kitap eklendi");
                 dataGridView1.DataSource = service.GetBooks();
+                _bookList = service.GetBooks();
+                _bs.DataSource = _bookList;
             }
             catch (FormatException)
             {
@@ -73,15 +90,14 @@ namespace KutuphaneYonetimSistemi
                     return;
                 }
 
-                int id = Convert.ToInt32(
-                    dataGridView1.CurrentRow.Cells["BookId"].Value
-                );
-
+                int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["BookId"].Value);
                 BookService service = new BookService();
                 service.DeleteBook(id);
 
                 MessageBox.Show("Kitap silindi");
                 dataGridView1.DataSource = service.GetBooks();
+                _bookList = service.GetBooks();
+                _bs.DataSource = _bookList;
             }
             catch (Exception ex)
             {
@@ -92,8 +108,8 @@ namespace KutuphaneYonetimSistemi
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             txtBookName.Text = dataGridView1.CurrentRow.Cells["BookName"].Value.ToString();
-            txtAuthor.Text   = dataGridView1.CurrentRow.Cells["Author"].Value.ToString();
-            txtStock.Text    = dataGridView1.CurrentRow.Cells["Stock"].Value.ToString();
+            txtAuthor.Text = dataGridView1.CurrentRow.Cells["Author"].Value.ToString();
+            txtStock.Text = dataGridView1.CurrentRow.Cells["Stock"].Value.ToString();
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
@@ -108,9 +124,7 @@ namespace KutuphaneYonetimSistemi
 
                 Book book = new Book
                 {
-                    BookId = Convert.ToInt32(
-                        dataGridView1.CurrentRow.Cells["BookId"].Value
-                    ),
+                    BookId = Convert.ToInt32(dataGridView1.CurrentRow.Cells["BookId"].Value),
                     BookName = txtBookName.Text,
                     Author = txtAuthor.Text,
                     Stock = int.Parse(txtStock.Text)
@@ -121,6 +135,8 @@ namespace KutuphaneYonetimSistemi
 
                 MessageBox.Show("Kitap güncellendi");
                 dataGridView1.DataSource = service.GetBooks();
+                _bookList = service.GetBooks();
+                _bs.DataSource = _bookList;
             }
             catch (FormatException)
             {
@@ -132,6 +148,14 @@ namespace KutuphaneYonetimSistemi
             }
         }
 
-        
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnAdd_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

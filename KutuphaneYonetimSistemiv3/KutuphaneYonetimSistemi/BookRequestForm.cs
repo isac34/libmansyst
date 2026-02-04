@@ -30,10 +30,15 @@ namespace KutuphaneYonetimSistemi
         {
             BookRequestService service = new BookRequestService();
 
-            service.AddRequest(_user.MemberId,txtBookName.Text,txtAuthor.Text);
+            service.AddRequest(_user.MemberId, txtBookName.Text, txtAuthor.Text);
             MessageBox.Show("Kitap talebiniz alındı 👍");
             txtBookName.Clear();
             txtAuthor.Clear();
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -172,3 +172,119 @@ C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.pdb
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.genruntimeconfig.cache
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\ref\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.exe
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.deps.json
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.BBL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.DAL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.Entities.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.BBL.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.Entities.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.DAL.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AdminForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookRequestAdminForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookRequestForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BorrowForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.LoginForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.MemberForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.OverdueReportForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.Properties.Resources.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.StaffForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.UserForm.resources
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AssemblyInfo.cs
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.sourcelink.json
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\Kutuphan.9AB83282.Up2Date
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\refint\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.genruntimeconfig.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\ref\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.exe
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.deps.json
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.runtimeconfig.json
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\KutuphaneYonetimSistemi.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.BBL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.DAL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.BBL.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.Entities.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Kutuphane.DAL.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AdminForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookRequestAdminForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BookRequestForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.BorrowForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.LoginForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.MemberForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.OverdueReportForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.Properties.Resources.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.StaffForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.UserForm.resources
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.AssemblyInfo.cs
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\Kutuphan.9AB83282.Up2Date
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\refint\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\KutuphaneYonetimSistemi.genruntimeconfig.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\obj\Debug\net8.0-windows\ref\KutuphaneYonetimSistemi.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\KutuphaneYonetimSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll

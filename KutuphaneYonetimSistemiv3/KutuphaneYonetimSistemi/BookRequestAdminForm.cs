@@ -39,6 +39,11 @@ namespace KutuphaneYonetimSistemi
             MessageBox.Show("Talep reddedildi");
             dataGridView1.DataSource = service.GetAllRequests();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
-    
+
 }

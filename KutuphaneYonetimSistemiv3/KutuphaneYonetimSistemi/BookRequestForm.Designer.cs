@@ -32,93 +32,135 @@
             txtBookName = new TextBox();
             txtAuthor = new TextBox();
             btnSend = new Button();
-            label1 = new Label();
-            label2 = new Label();
-            label3 = new Label();
             label4 = new Label();
+            pictureBox1 = new PictureBox();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            btnExit = new Button();
+            panel1 = new Panel();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // txtBookName
             // 
-            txtBookName.Location = new Point(109, 62);
+            txtBookName.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            txtBookName.Location = new Point(110, 121);
             txtBookName.Name = "txtBookName";
-            txtBookName.Size = new Size(100, 23);
+            txtBookName.Size = new Size(100, 29);
             txtBookName.TabIndex = 0;
+            txtBookName.Text = "Kitap İsmi";
             // 
             // txtAuthor
             // 
-            txtAuthor.Location = new Point(224, 62);
+            txtAuthor.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            txtAuthor.Location = new Point(231, 121);
             txtAuthor.Name = "txtAuthor";
-            txtAuthor.Size = new Size(100, 23);
+            txtAuthor.Size = new Size(100, 29);
             txtAuthor.TabIndex = 1;
+            txtAuthor.Text = "Yazar İsmi";
             // 
             // btnSend
             // 
-            btnSend.Location = new Point(109, 91);
+            btnSend.BackColor = Color.FromArgb(217, 195, 176);
+            btnSend.FlatAppearance.BorderSize = 0;
+            btnSend.FlatStyle = FlatStyle.Flat;
+            btnSend.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            btnSend.Location = new Point(119, 156);
             btnSend.Name = "btnSend";
-            btnSend.Size = new Size(206, 23);
+            btnSend.Size = new Size(221, 47);
             btnSend.TabIndex = 2;
             btnSend.Text = "Talep Gönder";
-            btnSend.UseVisualStyleBackColor = true;
+            btnSend.UseVisualStyleBackColor = false;
             btnSend.Click += btnSend_Click;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.FromArgb(0, 64, 64);
-            label1.Location = new Point(109, 44);
-            label1.Name = "label1";
-            label1.Size = new Size(69, 15);
-            label1.TabIndex = 3;
-            label1.Text = "Kitabın İsmi";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.BackColor = Color.FromArgb(0, 64, 64);
-            label2.Location = new Point(224, 44);
-            label2.Name = "label2";
-            label2.Size = new Size(34, 15);
-            label2.TabIndex = 4;
-            label2.Text = "Yazar";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.BackColor = Color.White;
-            label3.Location = new Point(12, 9);
-            label3.Name = "label3";
-            label3.Size = new Size(437, 15);
-            label3.TabIndex = 5;
-            label3.Text = "Kitap Talep Sayfasına Hoş Geldiniz! Buradan Dilediğiniz kitapları bize iletebilirsiniz. ";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.BackColor = Color.White;
-            label4.Location = new Point(12, 214);
+            label4.BackColor = Color.FromArgb(110, 113, 115);
+            label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            label4.ForeColor = Color.DarkRed;
+            label4.Location = new Point(65, 206);
             label4.Name = "label4";
-            label4.Size = new Size(243, 15);
+            label4.Size = new Size(358, 21);
             label4.TabIndex = 6;
             label4.Text = "! Bütün istekleriniz tarafımızca incelenecektir.";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.FromArgb(217, 188, 154);
+            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox1.Location = new Point(0, 3);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(104, 72);
+            pictureBox1.TabIndex = 7;
+            pictureBox1.TabStop = false;
+            // 
+            // textBox1
+            // 
+            textBox1.BackColor = Color.FromArgb(217, 188, 154);
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Font = new Font("Segoe UI", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            textBox1.ForeColor = Color.FromArgb(89, 64, 42);
+            textBox1.Location = new Point(110, 12);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(361, 53);
+            textBox1.TabIndex = 8;
+            textBox1.Text = "Kitap Talep Sayfası";
+            // 
+            // textBox2
+            // 
+            textBox2.BackColor = Color.FromArgb(110, 113, 115);
+            textBox2.BorderStyle = BorderStyle.None;
+            textBox2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            textBox2.ForeColor = SystemColors.Window;
+            textBox2.Location = new Point(45, 91);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(412, 22);
+            textBox2.TabIndex = 9;
+            textBox2.Text = "Dilediğiniz kitapları aşağıdan bize ulaştırabilirsiniz.";
+            // 
+            // btnExit
+            // 
+            btnExit.BackColor = Color.OrangeRed;
+            btnExit.Location = new Point(438, 3);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(44, 24);
+            btnExit.TabIndex = 15;
+            btnExit.Text = "X";
+            btnExit.UseVisualStyleBackColor = false;
+            btnExit.Click += btnExit_Click;
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.FromArgb(110, 113, 115);
+            panel1.Location = new Point(0, 81);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(482, 203);
+            panel1.TabIndex = 16;
             // 
             // BookRequestForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(0, 64, 64);
-            ClientSize = new Size(486, 238);
+            BackColor = Color.FromArgb(217, 188, 154);
+            ClientSize = new Size(483, 282);
+            Controls.Add(btnExit);
+            Controls.Add(textBox2);
+            Controls.Add(textBox1);
+            Controls.Add(pictureBox1);
             Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
             Controls.Add(btnSend);
             Controls.Add(txtAuthor);
             Controls.Add(txtBookName);
+            Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.None;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "BookRequestForm";
             Text = "Kitap İsteği";
             Load += BookRequestForm_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -128,9 +170,11 @@
         private TextBox txtBookName;
         private TextBox txtAuthor;
         private Button btnSend;
-        private Label label1;
-        private Label label2;
-        private Label label3;
         private Label label4;
+        private PictureBox pictureBox1;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private Button btnExit;
+        private Panel panel1;
     }
 }

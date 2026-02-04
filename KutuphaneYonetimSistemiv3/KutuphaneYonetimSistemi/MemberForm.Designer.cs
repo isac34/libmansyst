@@ -2,15 +2,8 @@
 {
     partial class MemberForm
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,214 +15,269 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MemberForm));
             txtFirstName = new TextBox();
             txtLastName = new TextBox();
             txtPhone = new TextBox();
             txtEmail = new TextBox();
             cmbRole = new ComboBox();
             btnAdd = new Button();
-            btnDelete = new Button();
             btnUpdate = new Button();
+            btnDelete = new Button();
             dataGridView1 = new DataGridView();
+            pictureBox1 = new PictureBox();
+            labelTitle = new Label();
+            button1 = new Button();
+            panel1 = new Panel();
+            panel2 = new Panel();
+            txtSearch = new TextBox();
+            pictureBox2 = new PictureBox();
             label1 = new Label();
-            label2 = new Label();
-            label3 = new Label();
-            label4 = new Label();
-            label5 = new Label();
-            groupBox1 = new GroupBox();
-            txtUsername = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
-            groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // txtFirstName
             // 
-            txtFirstName.Location = new Point(27, 189);
-            txtFirstName.Margin = new Padding(3, 2, 3, 2);
+            txtFirstName.Anchor = AnchorStyles.None;
+            txtFirstName.BackColor = Color.FromArgb(217, 195, 176);
+            txtFirstName.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            txtFirstName.ForeColor = Color.FromArgb(89, 64, 42);
+            txtFirstName.Location = new Point(3, 313);
             txtFirstName.Name = "txtFirstName";
-            txtFirstName.Size = new Size(110, 23);
-            txtFirstName.TabIndex = 0;
+            txtFirstName.Size = new Size(120, 29);
+            txtFirstName.TabIndex = 4;
+            txtFirstName.Text = "İsim";
             // 
             // txtLastName
             // 
-            txtLastName.Location = new Point(143, 189);
-            txtLastName.Margin = new Padding(3, 2, 3, 2);
+            txtLastName.Anchor = AnchorStyles.None;
+            txtLastName.BackColor = Color.FromArgb(217, 195, 176);
+            txtLastName.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            txtLastName.ForeColor = Color.FromArgb(89, 64, 42);
+            txtLastName.Location = new Point(129, 313);
             txtLastName.Name = "txtLastName";
-            txtLastName.Size = new Size(110, 23);
-            txtLastName.TabIndex = 1;
+            txtLastName.Size = new Size(120, 29);
+            txtLastName.TabIndex = 5;
+            txtLastName.Text = "Soyisim";
             // 
             // txtPhone
             // 
-            txtPhone.Location = new Point(259, 189);
-            txtPhone.Margin = new Padding(3, 2, 3, 2);
+            txtPhone.Anchor = AnchorStyles.None;
+            txtPhone.BackColor = Color.FromArgb(217, 195, 176);
+            txtPhone.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            txtPhone.ForeColor = Color.FromArgb(89, 64, 42);
+            txtPhone.Location = new Point(255, 313);
             txtPhone.Name = "txtPhone";
-            txtPhone.Size = new Size(110, 23);
-            txtPhone.TabIndex = 2;
+            txtPhone.Size = new Size(120, 29);
+            txtPhone.TabIndex = 6;
+            txtPhone.Text = "Telefon";
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(375, 189);
-            txtEmail.Margin = new Padding(3, 2, 3, 2);
+            txtEmail.Anchor = AnchorStyles.None;
+            txtEmail.BackColor = Color.FromArgb(217, 195, 176);
+            txtEmail.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            txtEmail.ForeColor = Color.FromArgb(89, 64, 42);
+            txtEmail.Location = new Point(381, 313);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(110, 23);
-            txtEmail.TabIndex = 3;
+            txtEmail.Size = new Size(120, 29);
+            txtEmail.TabIndex = 7;
+            txtEmail.Text = "Mail";
             // 
             // cmbRole
             // 
+            cmbRole.Anchor = AnchorStyles.None;
+            cmbRole.BackColor = Color.FromArgb(217, 195, 176);
+            cmbRole.FlatStyle = FlatStyle.Flat;
+            cmbRole.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            cmbRole.ForeColor = Color.FromArgb(89, 64, 42);
             cmbRole.FormattingEnabled = true;
             cmbRole.Items.AddRange(new object[] { "Staff", "Member" });
-            cmbRole.Location = new Point(491, 189);
-            cmbRole.Margin = new Padding(3, 2, 3, 2);
+            cmbRole.Location = new Point(507, 313);
             cmbRole.Name = "cmbRole";
-            cmbRole.Size = new Size(110, 23);
-            cmbRole.TabIndex = 4;
+            cmbRole.Size = new Size(120, 29);
+            cmbRole.TabIndex = 8;
+            cmbRole.Text = "Rol Seçiniz";
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(181, 216);
-            btnAdd.Margin = new Padding(3, 2, 3, 2);
+            btnAdd.Anchor = AnchorStyles.None;
+            btnAdd.BackColor = Color.FromArgb(217, 195, 176);
+            btnAdd.FlatAppearance.BorderSize = 0;
+            btnAdd.FlatStyle = FlatStyle.Flat;
+            btnAdd.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
+            btnAdd.ForeColor = Color.FromArgb(89, 64, 42);
+            btnAdd.Location = new Point(3, 348);
             btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(82, 22);
-            btnAdd.TabIndex = 5;
+            btnAdd.Size = new Size(100, 40);
+            btnAdd.TabIndex = 9;
             btnAdd.Text = "Ekle";
-            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.UseVisualStyleBackColor = false;
             btnAdd.Click += btnAdd_Click;
-            // 
-            // btnDelete
-            // 
-            btnDelete.Location = new Point(269, 216);
-            btnDelete.Margin = new Padding(3, 2, 3, 2);
-            btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(82, 22);
-            btnDelete.TabIndex = 6;
-            btnDelete.Text = "Sil";
-            btnDelete.UseVisualStyleBackColor = true;
-            btnDelete.Click += btnDelete_Click;
             // 
             // btnUpdate
             // 
-            btnUpdate.Location = new Point(357, 216);
-            btnUpdate.Margin = new Padding(3, 2, 3, 2);
+            btnUpdate.Anchor = AnchorStyles.None;
+            btnUpdate.BackColor = Color.FromArgb(217, 195, 176);
+            btnUpdate.FlatAppearance.BorderSize = 0;
+            btnUpdate.FlatStyle = FlatStyle.Flat;
+            btnUpdate.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
+            btnUpdate.ForeColor = Color.FromArgb(89, 64, 42);
+            btnUpdate.Location = new Point(109, 348);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(82, 22);
-            btnUpdate.TabIndex = 7;
+            btnUpdate.Size = new Size(120, 40);
+            btnUpdate.TabIndex = 10;
             btnUpdate.Text = "Güncelle";
-            btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.UseVisualStyleBackColor = false;
             btnUpdate.Click += btnUpdate_Click;
+            // 
+            // btnDelete
+            // 
+            btnDelete.Anchor = AnchorStyles.None;
+            btnDelete.BackColor = Color.FromArgb(217, 195, 176);
+            btnDelete.FlatAppearance.BorderSize = 0;
+            btnDelete.FlatStyle = FlatStyle.Flat;
+            btnDelete.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
+            btnDelete.ForeColor = Color.FromArgb(89, 64, 42);
+            btnDelete.Location = new Point(235, 348);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(100, 40);
+            btnDelete.TabIndex = 11;
+            btnDelete.Text = "Sil";
+            btnDelete.UseVisualStyleBackColor = false;
+            btnDelete.Click += btnDelete_Click;
             // 
             // dataGridView1
             // 
             dataGridView1.BackgroundColor = SystemColors.ControlLightLight;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(27, 21);
-            dataGridView1.Margin = new Padding(3, 2, 3, 2);
+            dataGridView1.Location = new Point(3, 155);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(574, 141);
-            dataGridView1.TabIndex = 8;
+            dataGridView1.Size = new Size(692, 152);
+            dataGridView1.TabIndex = 3;
             dataGridView1.CellClick += dataGridView1_CellClick;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.FromArgb(217, 188, 154);
+            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox1.Location = new Point(12, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(100, 88);
+            pictureBox1.TabIndex = 2;
+            pictureBox1.TabStop = false;
+            // 
+            // labelTitle
+            // 
+            labelTitle.AutoSize = true;
+            labelTitle.BackColor = Color.FromArgb(217, 188, 154);
+            labelTitle.Font = new Font("Segoe UI", 36F, FontStyle.Bold);
+            labelTitle.ForeColor = SystemColors.ActiveCaptionText;
+            labelTitle.Location = new Point(118, 21);
+            labelTitle.Name = "labelTitle";
+            labelTitle.Size = new Size(342, 65);
+            labelTitle.TabIndex = 1;
+            labelTitle.Text = "Güncel Üyeler";
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(89, 64, 42);
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = SystemColors.ButtonFace;
+            button1.Location = new Point(661, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(34, 23);
+            button1.TabIndex = 0;
+            button1.Text = "←";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.FromArgb(217, 188, 154);
+            panel1.Controls.Add(panel2);
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(698, 108);
+            panel1.TabIndex = 13;
+            // 
+            // panel2
+            // 
+            panel2.Location = new Point(0, 106);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(698, 293);
+            panel2.TabIndex = 14;
+            // 
+            // txtSearch
+            // 
+            txtSearch.Location = new Point(3, 126);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(692, 23);
+            txtSearch.TabIndex = 14;
+            txtSearch.TextChanged += txtSearch_TextChanged;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackgroundImage = (Image)resources.GetObject("pictureBox2.BackgroundImage");
+            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox2.Location = new Point(661, 126);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(34, 23);
+            pictureBox2.TabIndex = 15;
+            pictureBox2.TabStop = false;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.ForeColor = SystemColors.ButtonHighlight;
-            label1.Location = new Point(25, 172);
+            label1.Font = new Font("Segoe UI", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            label1.Location = new Point(3, 111);
             label1.Name = "label1";
-            label1.Size = new Size(29, 15);
-            label1.TabIndex = 9;
-            label1.Text = "İsim";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.ForeColor = SystemColors.ControlLightLight;
-            label2.Location = new Point(143, 172);
-            label2.Name = "label2";
-            label2.Size = new Size(48, 15);
-            label2.TabIndex = 10;
-            label2.Text = "Soyisim";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.ForeColor = SystemColors.ControlLightLight;
-            label3.Location = new Point(259, 172);
-            label3.Name = "label3";
-            label3.Size = new Size(100, 15);
-            label3.TabIndex = 11;
-            label3.Text = "Telefon Numarası";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.ForeColor = SystemColors.ControlLightLight;
-            label4.Location = new Point(375, 172);
-            label4.Name = "label4";
-            label4.Size = new Size(30, 15);
-            label4.TabIndex = 12;
-            label4.Text = "Mail";
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.ForeColor = SystemColors.ControlLightLight;
-            label5.Location = new Point(491, 172);
-            label5.Name = "label5";
-            label5.Size = new Size(24, 15);
-            label5.TabIndex = 13;
-            label5.Text = "Rol";
-            // 
-            // groupBox1
-            // 
-            groupBox1.Controls.Add(dataGridView1);
-            groupBox1.Controls.Add(label5);
-            groupBox1.Controls.Add(txtFirstName);
-            groupBox1.Controls.Add(label4);
-            groupBox1.Controls.Add(txtLastName);
-            groupBox1.Controls.Add(label3);
-            groupBox1.Controls.Add(txtPhone);
-            groupBox1.Controls.Add(label2);
-            groupBox1.Controls.Add(txtEmail);
-            groupBox1.Controls.Add(label1);
-            groupBox1.Controls.Add(cmbRole);
-            groupBox1.Controls.Add(btnAdd);
-            groupBox1.Controls.Add(btnUpdate);
-            groupBox1.Controls.Add(btnDelete);
-            groupBox1.Location = new Point(-9, -10);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(674, 331);
-            groupBox1.TabIndex = 14;
-            groupBox1.TabStop = false;
-            // 
-            // txtUsername
-            // 
-            txtUsername.Location = new Point(607, 189);
-            txtUsername.Margin = new Padding(3, 2, 3, 2);
-            txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(110, 23);
-            txtUsername.TabIndex = 14;
+            label1.Size = new Size(84, 13);
+            label1.TabIndex = 16;
+            label1.Text = "Arama Çubuğu";
             // 
             // MemberForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(0, 64, 64);
-            ClientSize = new Size(633, 319);
-            Controls.Add(groupBox1);
-            Margin = new Padding(3, 2, 3, 2);
+            BackColor = Color.FromArgb(110, 113, 115);
+            ClientSize = new Size(700, 400);
+            Controls.Add(label1);
+            Controls.Add(pictureBox2);
+            Controls.Add(txtSearch);
+            Controls.Add(txtFirstName);
+            Controls.Add(txtLastName);
+            Controls.Add(button1);
+            Controls.Add(txtPhone);
+            Controls.Add(labelTitle);
+            Controls.Add(txtEmail);
+            Controls.Add(pictureBox1);
+            Controls.Add(cmbRole);
+            Controls.Add(dataGridView1);
+            Controls.Add(btnAdd);
+            Controls.Add(btnUpdate);
+            Controls.Add(panel1);
+            Controls.Add(btnDelete);
+            FormBorderStyle = FormBorderStyle.None;
+            MaximumSize = new Size(700, 400);
+            MinimumSize = new Size(700, 400);
             Name = "MemberForm";
             Text = "MemberForm";
             Load += MemberForm_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -240,16 +288,16 @@
         private TextBox txtEmail;
         private ComboBox cmbRole;
         private Button btnAdd;
-        private Button btnDelete;
         private Button btnUpdate;
+        private Button btnDelete;
         private DataGridView dataGridView1;
+        private PictureBox pictureBox1;
+        private Label labelTitle;
+        private Button button1;
+        private Panel panel1;
+        private Panel panel2;
+        private TextBox txtSearch;
+        private PictureBox pictureBox2;
         private Label label1;
-        private Label label2;
-        private Label label3;
-        private Label label4;
-        private Label label5;
-        private GroupBox groupBox1;
-        private TextBox textBox2;
-        private TextBox txtUsername;
     }
 }

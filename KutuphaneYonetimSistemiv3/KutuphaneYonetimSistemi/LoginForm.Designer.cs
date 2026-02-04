@@ -29,104 +29,159 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginForm));
-            btnLogin = new Button();
+            pictureBox1 = new PictureBox();
+            pictureBox3 = new PictureBox();
+            pictureBox2 = new PictureBox();
             txtPassword = new TextBox();
             txtUsername = new TextBox();
-            label2 = new Label();
+            btnLogin = new Button();
+            panel1 = new Panel();
+            button1 = new Button();
             label1 = new Label();
-            groupBox1 = new GroupBox();
-            groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
-            // btnLogin
+            // pictureBox1
             // 
-            btnLogin.ForeColor = SystemColors.ActiveCaptionText;
-            btnLogin.Location = new Point(145, 122);
-            btnLogin.Margin = new Padding(3, 2, 3, 2);
-            btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(109, 22);
-            btnLogin.TabIndex = 3;
-            btnLogin.Text = "Giriş";
-            btnLogin.UseVisualStyleBackColor = true;
-            btnLogin.Click += btnLogin_Click;
+            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox1.Location = new Point(242, 32);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(180, 166);
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.BackgroundImage = (Image)resources.GetObject("pictureBox3.BackgroundImage");
+            pictureBox3.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox3.Location = new Point(195, 240);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(41, 32);
+            pictureBox3.TabIndex = 8;
+            pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackgroundImage = (Image)resources.GetObject("pictureBox2.BackgroundImage");
+            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
+            pictureBox2.Location = new Point(195, 202);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(41, 32);
+            pictureBox2.TabIndex = 7;
+            pictureBox2.TabStop = false;
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(144, 85);
+            txtPassword.BorderStyle = BorderStyle.FixedSingle;
+            txtPassword.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            txtPassword.Location = new Point(242, 240);
             txtPassword.Margin = new Padding(3, 2, 3, 2);
             txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(110, 23);
+            txtPassword.Size = new Size(180, 29);
             txtPassword.TabIndex = 1;
+            txtPassword.Text = "Şifre";
             txtPassword.UseSystemPasswordChar = true;
             // 
             // txtUsername
             // 
-            txtUsername.Location = new Point(144, 51);
+            txtUsername.BorderStyle = BorderStyle.FixedSingle;
+            txtUsername.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            txtUsername.Location = new Point(242, 204);
             txtUsername.Margin = new Padding(3, 2, 3, 2);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(110, 23);
+            txtUsername.Size = new Size(180, 29);
             txtUsername.TabIndex = 0;
+            txtUsername.Text = "Kullanıcı Adı";
             // 
-            // label2
+            // btnLogin
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(78, 85);
-            label2.Name = "label2";
-            label2.Size = new Size(30, 15);
-            label2.TabIndex = 5;
-            label2.Text = "Şifre";
+            btnLogin.FlatStyle = FlatStyle.System;
+            btnLogin.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            btnLogin.ForeColor = SystemColors.ActiveCaptionText;
+            btnLogin.Location = new Point(242, 276);
+            btnLogin.Margin = new Padding(3, 2, 3, 2);
+            btnLogin.Name = "btnLogin";
+            btnLogin.Size = new Size(179, 45);
+            btnLogin.TabIndex = 3;
+            btnLogin.Text = "Giriş";
+            btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Click += btnLogin_Click_1;
+            // 
+            // panel1
+            // 
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(pictureBox1);
+            panel1.Controls.Add(pictureBox3);
+            panel1.Controls.Add(pictureBox2);
+            panel1.Controls.Add(txtPassword);
+            panel1.Controls.Add(txtUsername);
+            panel1.Controls.Add(btnLogin);
+            panel1.Dock = DockStyle.Fill;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(700, 400);
+            panel1.TabIndex = 6;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.Red;
+            button1.ForeColor = Color.Snow;
+            button1.Location = new Point(663, 0);
+            button1.Name = "button1";
+            button1.Size = new Size(37, 23);
+            button1.TabIndex = 9;
+            button1.Text = "X";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(58, 57);
+            label1.Font = new Font("Times New Roman", 24F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            label1.ForeColor = Color.FromArgb(89, 64, 42);
+            label1.Location = new Point(0, 0);
             label1.Name = "label1";
-            label1.Size = new Size(73, 15);
-            label1.TabIndex = 4;
-            label1.Text = "Kullanıcı Adı";
-            // 
-            // groupBox1
-            // 
-            groupBox1.AutoSize = true;
-            groupBox1.AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            groupBox1.BackColor = Color.FromArgb(0, 64, 64);
-            groupBox1.Controls.Add(label1);
-            groupBox1.Controls.Add(label2);
-            groupBox1.Controls.Add(txtUsername);
-            groupBox1.Controls.Add(txtPassword);
-            groupBox1.Controls.Add(btnLogin);
-            groupBox1.Dock = DockStyle.Fill;
-            groupBox1.Location = new Point(0, 0);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(700, 338);
-            groupBox1.TabIndex = 6;
-            groupBox1.TabStop = false;
-            groupBox1.Enter += groupBox1_Enter;
+            label1.Size = new Size(626, 36);
+            label1.TabIndex = 7;
+            label1.Text = "Tekirdağ Namık Kemal İl Halk Kütüphanesi";
             // 
             // LoginForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
-            Controls.Add(groupBox1);
+            ClientSize = new Size(700, 400);
+            Controls.Add(panel1);
             ForeColor = SystemColors.Control;
+            FormBorderStyle = FormBorderStyle.None;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 2, 3, 2);
+            MaximumSize = new Size(700, 400);
+            MinimumSize = new Size(400, 400);
             Name = "LoginForm";
             Text = "Giriş Ekranı";
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
-        private Button btnLogin;
+        private PictureBox pictureBox1;
+        private PictureBox pictureBox3;
+        private PictureBox pictureBox2;
         private TextBox txtPassword;
         private TextBox txtUsername;
-        private Label label2;
+        private Button btnLogin;
+        private Panel panel1;
+        private Button button1;
         private Label label1;
-        private GroupBox groupBox1;
     }
 }

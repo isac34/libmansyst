@@ -1,4 +1,5 @@
-﻿using Kutuphane.Entities;
+﻿using System.Data;
+using Kutuphane.Entities;
 using static DbConnection;
 
 namespace Kutuphane.BBL
@@ -11,8 +12,9 @@ namespace Kutuphane.BBL
         {
             return dal.GetAllBooks();
         }
-    
-       public void AddBook(Book book)
+        
+        
+        public void AddBook(Book book)
         {
             if (book.Stock < 1)
             throw new Exception("Stok birin altında olamaz");

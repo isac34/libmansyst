@@ -28,5 +28,10 @@ public class BorrowService
     {
         return dal.GetOverdueBorrows();
     }
+    private BorrowDAL _borrowDal = new BorrowDAL();
+    public DataTable GetByMemberId(int memberId)
+    {
+        return _borrowDal.GetByMemberId(memberId);
+    }
 
 }

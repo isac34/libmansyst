@@ -58,3 +58,34 @@ C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\refint\Kutuphane.DAL.dll
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.pdb
 C:\Users\Arda\Desktop\NYP\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\ref\Kutuphane.DAL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.deps.json
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.AssemblyReference.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfoInputs.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfo.cs
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.sourcelink.json
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphan.1EDC2650.Up2Date
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\refint\Kutuphane.DAL.dll
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\source\repos\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\ref\Kutuphane.DAL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.deps.json
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfo.cs
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphan.1EDC2650.Up2Date
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\refint\Kutuphane.DAL.dll
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\ref\Kutuphane.DAL.dll

@@ -11,6 +11,11 @@ namespace Kutuphane.BLL
     public class ReportService
     {
         ReportDAL dal = new ReportDAL();
+        public (int Toplam, int Oduncte) GetKitapStatuSayilari()
+        {
+           
+            return dal.GetKitapStatuSayilari();
+        }
 
         public DataTable LateBooks()
         {
@@ -25,6 +30,10 @@ namespace Kutuphane.BLL
         public DataTable TopMembers()
         {
             return dal.GetTopMembers();
+        }
+        public DataTable BorrowStats()
+        {
+            return dal.GetBorrowStats();
         }
     }
 }

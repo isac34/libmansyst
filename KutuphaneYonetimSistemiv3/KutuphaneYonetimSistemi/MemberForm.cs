@@ -15,6 +15,8 @@ namespace KutuphaneYonetimSistemi
     public partial class MemberForm : Form
     {
         Member _user;
+        private List<Member> _memberList;
+        private BindingSource _bs = new BindingSource();
         public MemberForm(Member user)
         {
             InitializeComponent();
@@ -23,81 +25,150 @@ namespace KutuphaneYonetimSistemi
 
         private void MemberForm_Load(object sender, EventArgs e)
         {
+            RefreshMemberList();
+        }
+
+        private void RefreshMemberList()
+        {
             MemberService service = new MemberService();
-            dataGridView1.DataSource = service.GetMembers();
+            _memberList = service.GetMembers();
+
+            dataGridView1.AutoGenerateColumns = true;
+            _bs.DataSource = _memberList;
+            dataGridView1.DataSource = _bs;
+        }
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            if (_memberList == null) return;
+
+            string text = txtSearch.Text.ToLower();
+
+            var filtered = _memberList
+                .Where(m =>
+                    (m.FirstName ?? "").ToLower().Contains(text) ||
+                    (m.LastName ?? "").ToLower().Contains(text) ||
+                    (m.Email ?? "").ToLower().Contains(text) ||
+                    (m.Phone ?? "").ToLower().Contains(text) ||
+                    (m.Role ?? "").ToLower().Contains(text)
+                )
+                .ToList();
+
+            _bs.DataSource = filtered;
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            txtFirstName.Text = dataGridView1.CurrentRow.Cells["FirstName"].Value.ToString();
-            txtLastName.Text = dataGridView1.CurrentRow.Cells["LastName"].Value.ToString();
-            txtPhone.Text = dataGridView1.CurrentRow.Cells["Phone"].Value.ToString();
-            txtEmail.Text = dataGridView1.CurrentRow.Cells["Email"].Value.ToString();
-            cmbRole.Text = dataGridView1.CurrentRow.Cells["Role"].Value.ToString();
+            if (dataGridView1.CurrentRow != null)
+            {
+                txtFirstName.Text = dataGridView1.CurrentRow.Cells["FirstName"].Value.ToString();
+                txtLastName.Text = dataGridView1.CurrentRow.Cells["LastName"].Value.ToString();
+                txtPhone.Text = dataGridView1.CurrentRow.Cells["Phone"].Value.ToString();
+                txtEmail.Text = dataGridView1.CurrentRow.Cells["Email"].Value.ToString();
+                cmbRole.Text = dataGridView1.CurrentRow.Cells["Role"].Value.ToString();
+            }
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
             try
             {
+                if (string.IsNullOrWhiteSpace(txtFirstName.Text) ||
+                    string.IsNullOrWhiteSpace(txtLastName.Text) ||
+                    string.IsNullOrWhiteSpace(txtPhone.Text) ||
+                    string.IsNullOrWhiteSpace(txtEmail.Text) ||
+                    string.IsNullOrWhiteSpace(cmbRole.Text))
+                {
+                    MessageBox.Show("Tüm alanları doldurun!");
+                    return;
+                }
+
                 Member member = new Member
                 {
                     FirstName = txtFirstName.Text,
                     LastName = txtLastName.Text,
                     Phone = txtPhone.Text,
                     Email = txtEmail.Text,
-                    Role = cmbRole.Text,                   
-
-
+                    Role = cmbRole.Text
                 };
 
                 MemberService service = new MemberService();
                 service.AddMember(member);
 
                 MessageBox.Show("Üye eklendi");
-                dataGridView1.DataSource = service.GetMembers();
+                RefreshMemberList();
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("Hata: " + ex.Message);
             }
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            int id = Convert.ToInt32(
-        dataGridView1.CurrentRow.Cells["MemberId"].Value);
-
-            Member member = new Member
+            try
             {
-                MemberId = id,
-                FirstName = txtFirstName.Text,
-                LastName = txtLastName.Text,
-                Phone = txtPhone.Text,
-                Email = txtEmail.Text,
-                Role = cmbRole.Text,              
+                if (dataGridView1.CurrentRow == null)
+                {
+                    MessageBox.Show("Lütfen bir üye seçin!");
+                    return;
+                }
 
-            };
+                int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["MemberId"].Value);
 
-            MemberService service = new MemberService();
-            service.UpdateMember(member);
+                Member member = new Member
+                {
+                    MemberId = id,
+                    FirstName = txtFirstName.Text,
+                    LastName = txtLastName.Text,
+                    Phone = txtPhone.Text,
+                    Email = txtEmail.Text,
+                    Role = cmbRole.Text
+                };
 
-            MessageBox.Show("Üye güncellendi");
-            dataGridView1.DataSource = service.GetMembers();
+                MemberService service = new MemberService();
+                service.UpdateMember(member);
+
+                MessageBox.Show("Üye güncellendi");
+                RefreshMemberList();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Hata: " + ex.Message);
+            }
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            int id = Convert.ToInt32(
-        dataGridView1.CurrentRow.Cells["MemberId"].Value);
+            try
+            {
+                if (dataGridView1.CurrentRow == null)
+                {
+                    MessageBox.Show("Lütfen bir üye seçin!");
+                    return;
+                }
 
-            MemberService service = new MemberService();
-            service.DeleteMember(id);
+                int id = Convert.ToInt32(dataGridView1.CurrentRow.Cells["MemberId"].Value);
 
-            MessageBox.Show("Üye silindi");
-            dataGridView1.DataSource = service.GetMembers();
+                MemberService service = new MemberService();
+                service.DeleteMember(id);
+
+                MessageBox.Show("Üye silindi");
+                RefreshMemberList();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Hata: " + ex.Message);
+            }
         }
 
-       
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

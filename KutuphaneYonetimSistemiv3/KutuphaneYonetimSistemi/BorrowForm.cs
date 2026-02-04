@@ -13,14 +13,14 @@ using Microsoft.VisualBasic.ApplicationServices;
 
 namespace KutuphaneYonetimSistemi
 {
-
     public partial class BorrowForm : Form
     {
-        Member _user;
+        private Member _member;
+
         public BorrowForm(Member user)
         {
             InitializeComponent();
-            _user = user;
+            _member = user;
         }
 
         private void BorrowForm_Load(object sender, EventArgs e)
@@ -30,7 +30,7 @@ namespace KutuphaneYonetimSistemi
             BorrowService brs = new BorrowService();
 
             cmbMember.DataSource = ms.GetMembers();
-            cmbMember.DisplayMember = "FirstName" + "LastName";
+            cmbMember.DisplayMember = "FirstName"; // Sadece FirstName gösterecek şekilde düzelttim
             cmbMember.ValueMember = "MemberId";
 
             cmbBook.DataSource = bs.GetBooks();
@@ -58,8 +58,13 @@ namespace KutuphaneYonetimSistemi
 
         private void btnReturn_Click(object sender, EventArgs e)
         {
-            int borrowId = Convert.ToInt32(dataGridView1.CurrentRow.Cells["BorrowId"].Value);
+            if (dataGridView1.CurrentRow == null)
+            {
+                MessageBox.Show("Lütfen iade edilecek satırı seçin.");
+                return;
+            }
 
+            int borrowId = Convert.ToInt32(dataGridView1.CurrentRow.Cells["BorrowId"].Value);
             int bookId = (int)cmbBook.SelectedValue;
 
             BorrowService service = new BorrowService();
@@ -67,9 +72,17 @@ namespace KutuphaneYonetimSistemi
 
             MessageBox.Show("Kitap iade edildi");
             dataGridView1.DataSource = service.GetActiveBorrows();
-
         }
 
-        
+        private void dtDueDate_ValueChanged(object sender, EventArgs e)
+        {
+            // Şimdilik boş, isteğe bağlı kullanılabilir
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
+

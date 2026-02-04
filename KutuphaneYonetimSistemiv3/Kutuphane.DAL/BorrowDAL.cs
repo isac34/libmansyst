@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 public class BorrowDAL : DbConnection
 {
+
+
     public void BorrowBook(Borrow borrow)
     {
         connection.Open();
@@ -95,4 +97,31 @@ public class BorrowDAL : DbConnection
 
         return table;
     }
+    public DataTable GetByMemberId(int memberId)
+    {
+        DataTable table = new DataTable();
+
+        connection.Open();
+
+        string query = @"
+        SELECT 
+            b.BookName AS `Kitap Adı`,
+            br.BorrowDate AS `Alış Tarihi`,
+            br.DueDate AS `Son Teslim Tarihi`
+        FROM Borrows br
+        INNER JOIN Books b ON b.BookId = br.BookId
+        WHERE br.MemberId = @memberId
+          AND br.ReturnDate IS NULL";
+
+        MySqlCommand cmd = new MySqlCommand(query, connection);
+        cmd.Parameters.AddWithValue("@memberId", memberId);
+
+        MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+        da.Fill(table);
+
+        connection.Close();
+
+        return table;
+    }
+
 }
