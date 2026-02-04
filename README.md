@@ -99,7 +99,7 @@ Raporlama ile yöneticilere karar desteği sağlamak
 
 ## 📽️ Tanıtım Videosu
 
-Projenin tanıtım videosuna [bu linke](https://youtu.be/gJ2TX8XiLfQ) tıklayarak ulaşabilirsiniz
+Projenin tanıtım videosuna [bu linke](https://youtu.be/-8mrBUY0aFg) tıklayarak ulaşabilirsiniz
 
 ⭐ Not
 Bu proje, Nesne Yönelimli Programlama ve veritabanı tabanlı masaüstü uygulama geliştirme konularında pratik kazanmak amacıyla geliştirilmiştir.
