@@ -26,10 +26,9 @@
             label3 = new Label();
             pictureBox1 = new PictureBox();
             label4 = new Label();
-            button1 = new Button();
             panel1 = new Panel();
-            txtSearch = new TextBox();
             pictureBox2 = new PictureBox();
+            txtSearch = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
@@ -161,20 +160,6 @@
             label4.TabIndex = 1;
             label4.Text = "Aktif Ödünç Listesi";
             // 
-            // button1
-            // 
-            button1.BackColor = Color.FromArgb(89, 64, 42);
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.ForeColor = SystemColors.ButtonHighlight;
-            button1.Location = new Point(654, 2);
-            button1.Name = "button1";
-            button1.Size = new Size(34, 23);
-            button1.TabIndex = 0;
-            button1.Text = "←";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
-            // 
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(110, 113, 115);
@@ -194,14 +179,6 @@
             panel1.Size = new Size(701, 332);
             panel1.TabIndex = 12;
             // 
-            // txtSearch
-            // 
-            txtSearch.Location = new Point(10, 23);
-            txtSearch.Name = "txtSearch";
-            txtSearch.Size = new Size(678, 23);
-            txtSearch.TabIndex = 13;
-            txtSearch.TextChanged += txtSearch_TextChanged;
-            // 
             // pictureBox2
             // 
             pictureBox2.BackColor = Color.FromArgb(217, 195, 176);
@@ -213,13 +190,20 @@
             pictureBox2.TabIndex = 14;
             pictureBox2.TabStop = false;
             // 
+            // txtSearch
+            // 
+            txtSearch.Location = new Point(10, 23);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(678, 23);
+            txtSearch.TabIndex = 13;
+            txtSearch.TextChanged += txtSearch_TextChanged;
+            // 
             // BorrowForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(217, 188, 154);
             ClientSize = new Size(700, 400);
-            Controls.Add(button1);
             Controls.Add(label4);
             Controls.Add(pictureBox1);
             Controls.Add(panel1);
@@ -251,7 +235,6 @@
         private Label label3;
         private PictureBox pictureBox1;
         private Label label4;
-        private Button button1;
         private Panel panel1;
         private TextBox txtSearch;
         private PictureBox pictureBox2;

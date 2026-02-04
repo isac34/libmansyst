@@ -29,7 +29,6 @@
             dataGridView1 = new DataGridView();
             pictureBox1 = new PictureBox();
             labelTitle = new Label();
-            button1 = new Button();
             panel1 = new Panel();
             panel2 = new Panel();
             txtSearch = new TextBox();
@@ -186,20 +185,6 @@
             labelTitle.TabIndex = 1;
             labelTitle.Text = "Güncel Üyeler";
             // 
-            // button1
-            // 
-            button1.BackColor = Color.FromArgb(89, 64, 42);
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.ForeColor = SystemColors.ButtonFace;
-            button1.Location = new Point(661, 12);
-            button1.Name = "button1";
-            button1.Size = new Size(34, 23);
-            button1.TabIndex = 0;
-            button1.Text = "←";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
-            // 
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(217, 188, 154);
@@ -255,7 +240,6 @@
             Controls.Add(txtSearch);
             Controls.Add(txtFirstName);
             Controls.Add(txtLastName);
-            Controls.Add(button1);
             Controls.Add(txtPhone);
             Controls.Add(labelTitle);
             Controls.Add(txtEmail);
@@ -293,7 +277,6 @@
         private DataGridView dataGridView1;
         private PictureBox pictureBox1;
         private Label labelTitle;
-        private Button button1;
         private Panel panel1;
         private Panel panel2;
         private TextBox txtSearch;

@@ -130,6 +130,7 @@ namespace KutuphaneYonetimSistemi
         private void btnRequest_Click_1(object sender, EventArgs e)
         {
             BookRequestForm frm = new BookRequestForm(_currentMember);
+            frm.StartPosition = FormStartPosition.CenterScreen;
             frm.ShowDialog();
         }
 

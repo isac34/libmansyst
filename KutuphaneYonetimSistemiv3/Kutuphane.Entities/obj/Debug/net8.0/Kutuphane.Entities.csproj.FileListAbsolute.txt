@@ -65,3 +65,14 @@ C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.En
 C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\refint\Kutuphane.Entities.dll
 C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.pdb
 C:\Users\Arda\Desktop\NYP BÜT\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\ref\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\bin\Debug\net8.0\Kutuphane.Entities.deps.json
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\bin\Debug\net8.0\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\bin\Debug\net8.0\Kutuphane.Entities.pdb
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.AssemblyInfoInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.AssemblyInfo.cs
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\refint\Kutuphane.Entities.dll
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\Kutuphane.Entities.pdb
+C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.Entities\obj\Debug\net8.0\ref\Kutuphane.Entities.dll

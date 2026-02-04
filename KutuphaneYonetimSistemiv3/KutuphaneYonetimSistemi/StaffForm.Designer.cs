@@ -240,6 +240,7 @@
             MaximumSize = new Size(945, 500);
             MinimumSize = new Size(945, 500);
             Name = "StaffForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Kütüphane Yönetim Sistemi";
             Load += StaffForm_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

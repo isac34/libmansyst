@@ -36,8 +36,8 @@
             txtUsername = new TextBox();
             btnLogin = new Button();
             panel1 = new Panel();
-            button1 = new Button();
             label1 = new Label();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -127,6 +127,17 @@
             panel1.Size = new Size(700, 400);
             panel1.TabIndex = 6;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Times New Roman", 24F, FontStyle.Bold, GraphicsUnit.Point, 162);
+            label1.ForeColor = Color.FromArgb(89, 64, 42);
+            label1.Location = new Point(0, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(626, 36);
+            label1.TabIndex = 7;
+            label1.Text = "Tekirdağ Namık Kemal İl Halk Kütüphanesi";
+            // 
             // button1
             // 
             button1.BackColor = Color.Red;
@@ -138,17 +149,6 @@
             button1.Text = "X";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Times New Roman", 24F, FontStyle.Bold, GraphicsUnit.Point, 162);
-            label1.ForeColor = Color.FromArgb(89, 64, 42);
-            label1.Location = new Point(0, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(626, 36);
-            label1.TabIndex = 7;
-            label1.Text = "Tekirdağ Namık Kemal İl Halk Kütüphanesi";
             // 
             // LoginForm
             // 
@@ -163,6 +163,7 @@
             MaximumSize = new Size(700, 400);
             MinimumSize = new Size(400, 400);
             Name = "LoginForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Giriş Ekranı";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
