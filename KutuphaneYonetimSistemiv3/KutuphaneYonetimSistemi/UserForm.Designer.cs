@@ -200,7 +200,7 @@
             panel1.BackColor = Color.FromArgb(89, 64, 42);
             panel1.Location = new Point(0, 104);
             panel1.Name = "panel1";
-            panel1.Size = new Size(261, 36);
+            panel1.Size = new Size(263, 36);
             panel1.TabIndex = 27;
             // 
             // panel2

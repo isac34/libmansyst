@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xX6WbXvNnfc=",
+  "dgSpecHash": "E2k/WV0o6bs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arda\\Desktop\\NYP BÜT\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj",
+  "projectFilePath": "C:\\Users\\Arda\\source\\repos\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arda\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Arda\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
