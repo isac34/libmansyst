@@ -23,35 +23,41 @@ Kitap stok takibi
 
 Mevcut kitapların listelenmesi
 
+Geç kalan kitapların görüntülenmesi
+
 ### 👤 Üye Yönetimi
 
 Üye ekleme ve düzenleme işlemleri
 
-Kullanıcı adı ve şifre ile kayıt sistemi
-
 Üyelerin sistem üzerindeki işlemlerinin takibi
+
+Üyelerin aktiflik takibi
 
 ### 🔁 Ödünç Alma ve İade
 
 Kitap ödünç verme ve iade alma
 
-Stok kontrolü (stok 0 ise ödünç engelleme)
+Stok kontrolü 
 
 Gecikme gün sayısının otomatik hesaplanması
 
 ### 📨 Kitap Talep Sistemi
  
-Üyelerin sistemde olmayan kitaplar için talep oluşturabilmesi
+Üyelerin sistemde olmayan veya istedikleri kitaplar için talep oluşturabilmesi
 
-Taleplerin yönetici tarafından görüntülenmesi
+Taleplerin yönetici tarafından görüntülenebilmesi
 
 ### 📊 Raporlama (Yönetici)
 
 Geciken kitapların listelenmesi
 
+Aktif üyelerin listelenemesi
+
 En çok ödünç alınan kitaplar
 
-En aktif üyeler
+30 günlük ortalama ödünç grafiği
+
+Toplam stok/ödünçteki stok pasta grafiği
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -93,7 +99,7 @@ Raporlama ile yöneticilere karar desteği sağlamak
 
 ## 📽️ Tanıtım Videosu
 
-Projenin tanıtım videosuna [bu linke](https://youtu.be/gJ2TX8XiLfQ) tıklayarak ulaşabilirsiniz
+Projenin tanıtım videosuna [bu linke](https://youtu.be/-8mrBUY0aFg) tıklayarak ulaşabilirsiniz
 
 ⭐ Not
 Bu proje, Nesne Yönelimli Programlama ve veritabanı tabanlı masaüstü uygulama geliştirme konularında pratik kazanmak amacıyla geliştirilmiştir.
