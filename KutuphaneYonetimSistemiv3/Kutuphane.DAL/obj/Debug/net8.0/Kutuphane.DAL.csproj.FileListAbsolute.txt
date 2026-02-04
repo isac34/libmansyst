@@ -104,3 +104,19 @@ C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutup
 C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\refint\Kutuphane.DAL.dll
 C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.pdb
 C:\Users\Arda\Desktop\NYP BÜT\yedek1\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\ref\Kutuphane.DAL.dll
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.deps.json
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.dll
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\bin\Debug\net8.0\Kutuphane.Entities.pdb
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.AssemblyReference.cache
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfoInputs.cache
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.AssemblyInfo.cs
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.sourcelink.json
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphan.1EDC2650.Up2Date
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.dll
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\refint\Kutuphane.DAL.dll
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\Kutuphane.DAL.pdb
+C:\Users\Arda\Documents\GitHub\libmansyst\KutuphaneYonetimSistemiv3\Kutuphane.DAL\obj\Debug\net8.0\ref\Kutuphane.DAL.dll

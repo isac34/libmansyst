@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\",
+  "WorkspaceRootPath": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp b\u00FCt\\yedek1\\libmansyst\\kutuphaneyonetimsistemiv3\\kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\desktop\\nyp b\u00FCt\\yedek1\\libmansyst\\kutuphaneyonetimsistemiv3\\kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\documents\\github\\libmansyst\\kutuphaneyonetimsistemiv3\\kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\overduereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\documents\\github\\libmansyst\\kutuphaneyonetimsistemiv3\\kutuphaneyonetimsistemi\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\arda\\documents\\github\\libmansyst\\kutuphaneyonetimsistemiv3\\kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C408DC-B44E-4E99-A840-EC11AFC80AFD}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,83 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserForm.cs",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserForm.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAmwIUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:27:16.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StaffForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\StaffForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\StaffForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\StaffForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\StaffForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:26:50.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:25:04.511Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookRequestForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:24:56.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OverdueReportForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\OverdueReportForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\OverdueReportForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:24:53.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MemberForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\MemberForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MemberForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:24:49.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\LoginForm.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\LoginForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\LoginForm.cs [Design]",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T15:24:48.577Z",
@@ -135,35 +71,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "BorrowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:22:27.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:24:56.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRequestAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookRequestAdminForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookRequestAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:31:51.713Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:22:20.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\AdminForm.cs",
               "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\AdminForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\AdminForm.cs [Design]",
               "RelativeToolTip": "KutuphaneYonetimSistemi\\AdminForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:27:07.454Z"
+              "WhenOpened": "2026-02-04T15:27:07.454Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BorrowForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BorrowForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BorrowForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\BorrowForm.cs [Design]",
+              "Title": "MemberForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\MemberForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\MemberForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\MemberForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:22:27.788Z"
+              "WhenOpened": "2026-02-04T15:24:49.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OverdueReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\OverdueReportForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\OverdueReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:24:53.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\StaffForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\StaffForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\StaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:26:50.452Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BookForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookForm.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\BookForm.cs",
-              "ToolTip": "C:\\Users\\Arda\\Desktop\\NYP B\u00DCT\\yedek1\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\BookForm.cs [Design]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\BookForm.cs [Design]",
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs [Design]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:22:20.732Z"
+              "WhenOpened": "2026-02-04T15:25:04.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Arda\\Documents\\GitHub\\libmansyst\\KutuphaneYonetimSistemiv3\\KutuphaneYonetimSistemi\\UserForm.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwIUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:27:16.637Z",
+              "EditorCaption": ""
             }
           ]
         }
