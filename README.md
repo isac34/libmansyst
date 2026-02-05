@@ -1,7 +1,11 @@
 
-# 📚 Kütüphane Yönetim Sistemi
+# 📽️ Tanıtım Videosu
 
-Kütüphane Yönetim Sistemi, kütüphane süreçlerini dijital ortamda yönetmek amacıyla geliştirilmiş bir masaüstü uygulamasıdır.
+Projenin tanıtım videosuna [bu linke](https://youtu.be/jjZLVbDhCAs) tıklayarak ulaşabilirsiniz
+
+## 📚 Kütüphane Yönetim Sistemi
+
+Geliştirmiş olduğum bu uygulama, kütüphane süreçlerini dijital ortamda yönetmek amacıyla geliştirilmiş bir masaüstü uygulamasıdır.
 Bu proje; kitap yönetimi, üye işlemleri, ödünç alma–iade süreçleri ve raporlama işlemlerini tek bir sistem üzerinden güvenli ve düzenli şekilde yürütmeyi hedefler.
 
 Uygulama, katmanlı mimari prensiplerine uygun olarak geliştirilmiş olup sürdürülebilir ve genişletilebilir bir yapı sunar.
@@ -9,7 +13,7 @@ Uygulama, katmanlı mimari prensiplerine uygun olarak geliştirilmiş olup sürd
 ## 🚀 Temel Özellikler
 ### 🔐 Kullanıcı Girişi ve Yetkilendirme
 
-Güvenli giriş (login) sistemi
+Güvenli giriş sistemi
 
 Rol bazlı yetkilendirme (Yönetici / Personel / Üye)
 
@@ -45,7 +49,7 @@ Gecikme gün sayısının otomatik hesaplanması
  
 Üyelerin sistemde olmayan veya istedikleri kitaplar için talep oluşturabilmesi
 
-Taleplerin yönetici tarafından görüntülenebilmesi
+Taleplerin yönetici ve çalışanlar tarafından görüntülenebilmesi
 
 ### 📊 Raporlama (Yönetici)
 
@@ -96,10 +100,6 @@ Kitap ve üye takibini düzenli ve güvenli hale getirmek
 Rol bazlı yetkilendirme ile kontrollü bir sistem sunmak
 
 Raporlama ile yöneticilere karar desteği sağlamak
-
-## 📽️ Tanıtım Videosu
-
-Projenin tanıtım videosuna [bu linke](https://youtu.be/jjZLVbDhCAs) tıklayarak ulaşabilirsiniz
 
 ⭐ Not
 Bu proje, Nesne Yönelimli Programlama ve veritabanı tabanlı masaüstü uygulama geliştirme konularında pratik kazanmak amacıyla geliştirilmiştir.
